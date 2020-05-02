@@ -15,7 +15,8 @@ Resources :
 
 Backend : 
 ```
-src @
+clone https://github.com/msm1992/hello-service and start the server
+backend URL for APIM : http://localhost:8080/
 ```
 
 2. Subscribe to the API and get an access token.
