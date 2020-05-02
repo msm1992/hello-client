@@ -21,7 +21,7 @@ backend URL for APIM : http://localhost:8080/
 
 2. Subscribe to the API and get an access token.
 
-3. Replace <token> with the obtained token.
+3. Replace <token> @https://github.com/msm1992/hello-client/blob/master/src/main/java/com/example/tracing/hello/client/HelloClientApplication.java#L63 with the obtained token.
 
 4. Start the application.
 ```
